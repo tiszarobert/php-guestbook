@@ -1,7 +1,7 @@
 # PHP Vendégkönyv
 
 
-## Általános
+## Leírás
 
 Ez az egyszerű vendégkönyv egy próbafeladat volt álláshírdetésnél
 
