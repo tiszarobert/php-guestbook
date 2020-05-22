@@ -1,5 +1,5 @@
 
-*.php -text diff=php
-*.html -text diff=html
-*.css -text diff=css
-*.js -text diff=javascript
+*.php linguist-language=php
+*.html linguist-language=html
+*.css linguist-language=css
+*.js linguist-language=javascript
