@@ -1,5 +1,4 @@
 
-*.php linguist-language=php
-*.html linguist-language=html
-*.css linguist-language=css
-*.js linguist-language=javascript
+* linguist-vendored
+*.php linguist-vendored=false
+*.js linguist-vendored=false
